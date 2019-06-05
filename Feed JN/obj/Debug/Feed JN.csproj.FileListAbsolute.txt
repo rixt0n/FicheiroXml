@@ -1,0 +1,10 @@
+C:\Users\t0114622\source\repos\Feed JN\Feed JN\bin\Debug\Feed JN.exe.config
+C:\Users\t0114622\source\repos\Feed JN\Feed JN\bin\Debug\Feed JN.exe
+C:\Users\t0114622\source\repos\Feed JN\Feed JN\bin\Debug\Feed JN.pdb
+C:\Users\t0114622\source\repos\Feed JN\Feed JN\obj\Debug\Feed JN.csprojAssemblyReference.cache
+C:\Users\t0114622\source\repos\Feed JN\Feed JN\obj\Debug\Feed_JN.Form1.resources
+C:\Users\t0114622\source\repos\Feed JN\Feed JN\obj\Debug\Feed_JN.Properties.Resources.resources
+C:\Users\t0114622\source\repos\Feed JN\Feed JN\obj\Debug\Feed JN.csproj.GenerateResource.cache
+C:\Users\t0114622\source\repos\Feed JN\Feed JN\obj\Debug\Feed JN.csproj.CoreCompileInputs.cache
+C:\Users\t0114622\source\repos\Feed JN\Feed JN\obj\Debug\Feed JN.exe
+C:\Users\t0114622\source\repos\Feed JN\Feed JN\obj\Debug\Feed JN.pdb
